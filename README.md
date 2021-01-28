@@ -1,10 +1,10 @@
-#RANGKUMAN PERTEMUAN 8-14 JARINGAN NIRKABEL DAN WAN
+# RANGKUMAN PERTEMUAN 8-14 JARINGAN NIRKABEL DAN WAN
 
-##PERTEMUAN 8
+## PERTEMUAN 8
 Dari pertemuan ke delapan itu membahas tentang materi jaringan selular di dalam materi itu mahasiswa di perkenalkan dengan apasih itu jaringan selular dan apa saja jenis dari jaringan selular. Jadi ada 3 materi yang paling utama dalam pembahasan di jaringan selular ini. Di pertemuan ke delapan ini mahasiswa di berikan tugas untuk menjelaskan perbedaan dari
 1G,2G,3G dan 4G 
 
-##PERTEMUAN 9
+## PERTEMUAN 9
 Di dalam pertemuan ke Sembilan ini para mahasisawa di berikan materi perihal :
 
 GSM(Global system for mobile communication)
@@ -27,7 +27,7 @@ Dalam hal ini GSM menjadi rentan untuk menipulasi data, hingga adanya tindakan p
 
 Kekurangan Penggunaan timeslot, yang membuat terkadang jaringan sering mengalami gangguan Penggunaan metode timeslot yang digunakan pada teknologi komunikasi jaringan telepon seluler menggunakan GSM ini membuat terkadang jaringan menjadi lambat dalam melakukan respon. Hal ini disebabkan karena tiap nomor harus berbagi slot-slot tertentu di dalam satu waktu. Inilah yang disebut dengan timeslot, yang terkadang dapat menyebabkan terjadinya gangguan dan juga lambatnya respon dari jaringan seluler GSM dalam melakukan tugasnya.
 
-##PERTEMUAN 10
+## PERTEMUAN 10
 Di pertemuan ke sepuluh ini kita akan merangkum perihal CDMA nah langsung saja apa itu CDMA
 
 CDMA (Code Division Multiple Access)
@@ -35,13 +35,13 @@ CDMA (code division multiple access) adalah teknologi akses jamak dimana masing-
 
 Pada CDMA, sinyal informasi pada transmitter dicoding dan disebar dengan bandwidth sebesar 1.25 MHz (spread spectrum), kemudian pada sisi repeater dilakukan decoding sehingga didapatkan sinyal informasi yang dibutuhkan. Jadi bias di simpulkan bahwa CMDA ini masih di bawah GSM.
 
-##PERTEMUAN 11
+## PERTEMUAN 11
 Di pertemuaan ke sebelas ini mahasisawa di berikan materi tentang SATELIT nah di sini begitu banyak penjelasan tentang satelit ini sehingga kita tau apa saja tugas dari satelit ini karena di materi ini di berikan video – video tentang satelit 
 
-##PERTEMUAN 12
+## PERTEMUAN 12
 GPS(Global Positioning System) Untuk di pertemuan dua belas ini mahasiswa di perkenalkan secara jelas bahwasanya GPS ini bekerja untuk menentukan lokasi kita sebagai pengguna khusus nya SMARTPHONE sangat” mengandalkan yang nama nya GPS dan GPS ni untuk mengetahuin lokasi Alat/SmartPhone secara akurat menggunakan SATELIT. Dan di beritahu juga bahwa GPS untuk SmartPhone sebenarnya tidak membutuhkan paket data. Lah,mengapa demikian?Karena, yang di lakukan oleh system navigasi di dalam SmartPhone adalah “MENDENGAR” sinyal dari satelit,bukan melakukan transaksi data.wow hebatkan system dari GPS ini :D .
 
-##PERTEMUAN 13
+## PERTEMUAN 13
 Pembahasan kita di pertemuan ke tigabelas ini adalah mengenai materi : WIMAX (Woldwide Introperability For Microwave Acces) Oke disni akan saya rangkum sedikit Apa itu WiMax. WiMax merupakan Teknologi akses nirkabel pita lebar (broadband wireless access atau disingkat BWA) yang memiliki kecepatan akses yang tinggi dengan jangkauan yang luas. Jadi WiMax ini untuk standart nya berbeda ya dengan WIFI karena ada beberapa perbedaan WiMax dengan WIFI. Oke mari kita bahas standart dari WiMax ini. WiMax merupakan penggabungan antara 2 standard :
 
 IEEE 802.16 (Institute Of Electrical and Electronics Engineering) di gunakan secara luas di Negara asal nya yaitu Amerika
@@ -49,7 +49,7 @@ ETSI HiperMAN (European Telecommunications Standards Institute HiperMAN) digunak
 
 Di pertemuan ke tigabelas mahasiswa di ajak untuk saling berdiskusi lagi perihal pembahasan dari WiMax.
 
-##PERTEMUAN 14
+## PERTEMUAN 14
 Di pertemuan ke empatbelas ini mahasiswa mendapatkan materi baru yaitu :
 
 ANTENA DAN PROPAGASI
